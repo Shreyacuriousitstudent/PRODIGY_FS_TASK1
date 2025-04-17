@@ -43,3 +43,6 @@ Bootstrap (for basic styling)
 ⚙️ Simple and clean EJS-based frontend UI
 
 🚫 Access restrictions to prevent unauthorized actions
+
+
+This project is licensed under the MIT License.
